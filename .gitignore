@@ -1,0 +1,6 @@
+site
+out.pdf
+stamped.pdf
+stamp.pdf
+node_modules
+cpdf
